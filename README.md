@@ -10,7 +10,9 @@ set up according to webpack tutorials here:
 ## developing
 
 to set up your env enter:
-* `$ npm install --include dev`
+* `$ npm install`
 
 to run the development server enter:
 * `$ npm run serve`
+
+and the web page will be at http://localhost:9000
